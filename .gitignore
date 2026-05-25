@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.png
+candi_file.txt
+insti_file.txt
+rec_file.txt
+received_qr.png
+compressed_qr.png
+keys/*_private.pem
+recruiter_demo.log
