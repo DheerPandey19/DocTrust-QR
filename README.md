@@ -229,14 +229,4 @@ This is a **learning / demo** project. A production system would also use HTTPS,
 
 ---
 
-## Authors (from project report)
 
-- Dheer Pandey (22CSB0F23)
-- Shefali Mohapatra (22CSB0F34)
-- Pranjal Sharma (22CSB0F39)
-
----
-
-## License
-
-Educational project — use and modify freely for learning.
